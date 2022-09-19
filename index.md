@@ -12,7 +12,7 @@ Dalam melayani pelanggan secara online, bisa menghubungi melalui line telepon, s
 
 **Layanan IDwebhost:**<br/>
 
-| [<img src="https://raw.githubusercontent.com/ardantus/gemes-bond/main/mark/media/image12.png" style="height:auto; width:150px" />](https://idwebhost.com/domain-murah) | ###### Beli domain murah terlengkap yang kamu inginkan di IDwebhost. Saatnya memiliki identitas brand profesional menggunakan domain. |
+| [<img src="https://raw.githubusercontent.com/ardantus/gemes-bond/main/mark/media/image12.png" style="height:auto; width:150px" />](https://idwebhost.com/domain-murah) |  ****Beli domain murah terlengkap yang kamu inginkan di IDwebhost. Saatnya memiliki identitas brand profesional menggunakan domain.**** |
  | :-: | :- |
  | [<img src="https://raw.githubusercontent.com/ardantus/gemes-bond/main/mark/media/image8.png" style="height:auto; width:150px" />](https://idwebhost.com/hosting-murah)  | Layanan web hosting Indonesia terbaik dengan fitur terlengkap dan dukungan 24 jam untuk mendukung kesuksesan website.                              |
  | [<img src="https://raw.githubusercontent.com/ardantus/gemes-bond/main/mark/media/image11.png" style="height:auto; width:150px" />](https://idwebhost.com/vps-murah)   | Miliki Cloud VPS yang stabil dan fleksibel dengan kecepatan maksimal. Fitur terlengkap dalam satu layanan.                                         |
