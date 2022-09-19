@@ -21,21 +21,18 @@ Dalam melayani pelanggan secara online, bisa menghubungi melalui line telepon, s
  | [<img src="./media/image2.png" style="height:auto; width:150px" />](https://idwebhost.com/gsuite)                 | Google Workspace (G Suite) adalah layanan berbagai aplikasi untuk meningkatkan produktivitas dan membuat kolaborasi semakin bersinergi.            |
 
 <br/><br/>
-**Yogyakarta**
-
+**Yogyakarta**<br/>
 Jl. Perintis Kemerdekaan No. 33 Yogyakarta 55161<br/>
 Telp: (0274) 415585 / Fax : 0274-385603
 
 
-**Jakarta**
-
+**Jakarta**<br/>
 Graha JogjaCamp Jl. Mampang Prapatan 19C <br/>
 Jakarta Selatan 12790 <br/>
 Telp: (021) 79184155 / Fax: (021) 7941417
 
 
-**Semarang**
-
+**Semarang**<br/>
 Jogjacamp Semarang Jl. Kedung Mundu Raya No. 99 B <br/>
 Semarang 50274 <br/>
 Telp: (024) 30001000
