@@ -24,27 +24,20 @@ Dalam melayani pelanggan secara online, bisa menghubungi melalui line telepon, s
 **Yogyakarta**
 
 Jl. Perintis Kemerdekaan No. 33 Yogyakarta 55161
-
 Telp: (0274) 415585 / Fax : 0274-385603
 
 
 **Jakarta**
 
 Graha JogjaCamp Jl. Mampang Prapatan 19C
-
-
 Jakarta Selatan 12790
-
-
 Telp: (021) 79184155 / Fax: (021) 7941417
 
 
 **Semarang**
 
 Jogjacamp Semarang Jl. Kedung Mundu Raya No. 99 B
-
 Semarang 50274
-
 Telp: (024) 30001000
 
 
