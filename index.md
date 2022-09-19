@@ -1,9 +1,5 @@
----
-title: Penyedia Layanan Hosting Murah No 1 Indonesia
----
-
 [<img src="https://raw.githubusercontent.com/ardantus/gemes-bond/main/mark/media/image1.png" style="width:250px;height:auto" />](https://idwebhost.com/)
-
+Penyedia Layanan Hosting Murah No 1 Indonesia
 IDwebhost merupakan perusahaan web hosting terbaik di Indonesia. Merupakan perusahaan yang pertama memperoleh ICANN Accredited serta diakui secara internasional sebagai penyedia domain dan hosting terbesar di Indonesia.
 
 Berdiri sejak 2004 mendampingi para pegiat blog, pelaku bisnis dan instansi beradaptasi dengan perkembangan teknologi khususnya di bidang web hosting agar memiliki jangkauan lebih luas baik secara lokal, nasional maupun internasional.
