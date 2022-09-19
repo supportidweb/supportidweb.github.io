@@ -9,10 +9,9 @@ Kepuasan pelanggan merupakan prioritas teratas IDwebhost dalam melayani setiap p
 
 Dalam melayani pelanggan secara online, bisa menghubungi melalui line telepon, sms, live chat, Whatsapp maupun email tiket. Sampai saat ini IDwebhost memiliki office di Yogyakarta, Jakarta dan Semarang yang bisa dikunjungi pelanggan untuk konsultasi secara tatap muka.
 
-**Layanan IDwebhost:**<br/>
-
+| Layanan IDwebhost : |  |
+| -- | ------ |
 | [<img src="https://raw.githubusercontent.com/ardantus/gemes-bond/main/mark/media/image12.png" style="height:auto; width:150px" />](https://idwebhost.com/domain-murah) | Beli domain murah terlengkap yang kamu inginkan di IDwebhost. Saatnya memiliki identitas brand profesional menggunakan domain. |
-| :-: | :- |
  | [<img src="https://raw.githubusercontent.com/ardantus/gemes-bond/main/mark/media/image8.png" style="height:auto; width:150px" />](https://idwebhost.com/hosting-murah)  | Layanan web hosting Indonesia terbaik dengan fitur terlengkap dan dukungan 24 jam untuk mendukung kesuksesan website.                              |
  | [<img src="https://raw.githubusercontent.com/ardantus/gemes-bond/main/mark/media/image11.png" style="height:auto; width:150px" />](https://idwebhost.com/vps-murah)   | Miliki Cloud VPS yang stabil dan fleksibel dengan kecepatan maksimal. Fitur terlengkap dalam satu layanan.                                         |
  | [<img src="https://raw.githubusercontent.com/ardantus/gemes-bond/main/mark/media/image10.png" style="height:auto; width:150px" />](https://idwebhost.com/dedicated-server)      | Layanan penyedia dedicated server performa andal, stabil, dan akses kontrol penuh. Hubungi customer service kami untuk mendapatkan harga terbaik.  |
