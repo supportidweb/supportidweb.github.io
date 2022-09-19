@@ -11,7 +11,6 @@ Dalam melayani pelanggan secara online, bisa menghubungi melalui line telepon, s
 
 **Layanan IDwebhost:**
 
-
  | [<img src="https://raw.githubusercontent.com/ardantus/gemes-bond/main/mark/media/image12.png" style="height:auto; width:150px" />](https://idwebhost.com/domain-murah) | Beli domain murah terlengkap yang kamu inginkan di IDwebhost. Saatnya memiliki identitas brand profesional menggunakan domain. |
  | :-: | :- |
  | [<img src="https://raw.githubusercontent.com/ardantus/gemes-bond/main/mark/media/image8.png" style="height:auto; width:150px" />](https://idwebhost.com/hosting-murah)  | Layanan web hosting Indonesia terbaik dengan fitur terlengkap dan dukungan 24 jam untuk mendukung kesuksesan website.                              |
@@ -21,23 +20,24 @@ Dalam melayani pelanggan secara online, bisa menghubungi melalui line telepon, s
  | [<img src="./media/image7.png" style="height:auto; width:150px" />](https://idwebhost.com/jasa-pembuatan-website) | Cara cepat buat website profesional. Dapatkan kemudahan dalam membuat website seperti yang kamu inginkan. Website langsung siap pakai 2 hari jadi! |
  | [<img src="./media/image2.png" style="height:auto; width:150px" />](https://idwebhost.com/gsuite)                 | Google Workspace (G Suite) adalah layanan berbagai aplikasi untuk meningkatkan produktivitas dan membuat kolaborasi semakin bersinergi.            |
 
+
 **Yogyakarta**
 
-Jl. Perintis Kemerdekaan No. 33 Yogyakarta 55161
+Jl. Perintis Kemerdekaan No. 33 Yogyakarta 55161 \
 Telp: (0274) 415585 / Fax : 0274-385603
 
 
 **Jakarta**
 
-Graha JogjaCamp Jl. Mampang Prapatan 19C
-Jakarta Selatan 12790
+Graha JogjaCamp Jl. Mampang Prapatan 19C \
+Jakarta Selatan 12790 \
 Telp: (021) 79184155 / Fax: (021) 7941417
 
 
 **Semarang**
 
-Jogjacamp Semarang Jl. Kedung Mundu Raya No. 99 B
-Semarang 50274
+Jogjacamp Semarang Jl. Kedung Mundu Raya No. 99 B \
+Semarang 50274 \
 Telp: (024) 30001000
 
 
